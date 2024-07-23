@@ -1,7 +1,7 @@
 x = '123abc'
 s = '123asbcs'
 
-l1 = ['kupa']
+l1 = ['side']
 counter = 0
 
 for letter in x:
